@@ -1,0 +1,9 @@
+D:\Skills\.Net\Secugen_HU20\bin\Debug\Secugen_HU20.exe.config
+D:\Skills\.Net\Secugen_HU20\bin\Debug\Secugen_HU20.exe
+D:\Skills\.Net\Secugen_HU20\bin\Debug\Secugen_HU20.pdb
+D:\Skills\.Net\Secugen_HU20\bin\Debug\SecuGen.FDxSDKPro.Windows.dll
+D:\Skills\.Net\Secugen_HU20\obj\Debug\Secugen_HU20.csproj.AssemblyReference.cache
+D:\Skills\.Net\Secugen_HU20\obj\Debug\Secugen_HU20.csproj.CoreCompileInputs.cache
+D:\Skills\.Net\Secugen_HU20\obj\Debug\Secugen_HU20.csproj.CopyComplete
+D:\Skills\.Net\Secugen_HU20\obj\Debug\Secugen_HU20.exe
+D:\Skills\.Net\Secugen_HU20\obj\Debug\Secugen_HU20.pdb
